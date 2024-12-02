@@ -1,6 +1,8 @@
 #include "LinkedList.h"
 namespace DataSctruct{
 
+//adicionado comentario
+//
 class HashTable{
 
     private:
