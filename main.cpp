@@ -1,4 +1,5 @@
 /*
+//adicionei aqui
 On Mac Terminal:
 
 g++ -w LinkedList.cpp HashTable.cpp main.cpp -o hash.out
