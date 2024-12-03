@@ -1,11 +1,10 @@
 /*
 
 On Terminal:
-
 g++ -w LinkedList.cpp HashTable.cpp main.cpp -o hash.out
 ./hash.out
-
 */
+
 #include <iostream>
 #include "HashTable.h"
 #define TAMANHO_HASH_TABLE 500
