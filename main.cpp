@@ -4,6 +4,7 @@ On Terminal:
 
 g++ -w LinkedList.cpp HashTable.cpp main.cpp -o hash.out
 ./hash.out
+
 */
 #include <iostream>
 #include "HashTable.h"
