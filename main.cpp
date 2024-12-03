@@ -1,10 +1,8 @@
 /*
-
 On Terminal:
 g++ -w LinkedList.cpp HashTable.cpp main.cpp -o hash.out
 ./hash.out
 */
-
 #include <iostream>
 #include "HashTable.h"
 #define TAMANHO_HASH_TABLE 500
@@ -77,6 +75,7 @@ int main(){
 
     hash->showHashTable();
     */
+
    char *ex[10] = {"Primeiro", "Segundo", "Terceiro", "Quarto", "Quinto", 
                 "Sexto", "Setimo", "Oitavo", "Nono", "Decimo"
     };
