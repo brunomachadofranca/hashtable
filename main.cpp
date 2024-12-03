@@ -1,5 +1,5 @@
 /*
-i
+
 On Terminal:
 
 g++ -w LinkedList.cpp HashTable.cpp main.cpp -o hash.out
